@@ -1,5 +1,6 @@
 介绍：http://cedro3.com/ai/anime/
-#使用方法
+
+# 使用方法
 点击文件中的“generate_ayadao's_anime.ipynb”链接到谷歌云计算
 修改参数以生成
 
