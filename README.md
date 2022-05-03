@@ -1,4 +1,9 @@
-　ipynbファイルをクリックするとJupyter notebook形式のファイルが表示されます。先頭にある「Open in Colab」ボタンを押すと、Google Colab上で実行できます。使用環境は、Google Colab が動作すれば、どんなものでも構いません。
+介绍：http://cedro3.com/ai/anime/
+#使用方法
+点击文件中的“generate_ayadao's_anime.ipynb”链接到谷歌云计算
+修改参数以生成
+
+ipynbファイルをクリックするとJupyter notebook形式のファイルが表示されます。先頭にある「Open in Colab」ボタンを押すと、Google Colab上で実行できます。使用環境は、Google Colab が動作すれば、どんなものでも構いません。
 
 # Edit_new_image.ipynb
 　学習済みStyleGAN2モデルを使って、新規画像の画像編集がどの程度出来るのかを検証します。\
