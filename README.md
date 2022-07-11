@@ -5,7 +5,9 @@ ipynbファイルをクリックするとJupyter notebook形式のファイル�
 
 Colab が動作すれば、どんなものでも構いません。
 
-单击 ipynb 文件以显示 Jupyter 笔记本格式文件。您可以通过按顶部的“在 Colab 中打开”按钮在 Google Colab 上运行它。只要 Google Colab 可以工作，您就可以在任何环境中使用它。
+单击 ipynb 文件以显示 Jupyter 笔记本格式文件。您可以通过按顶部的“在 Colab 中打开”按钮在 Google Colab 上运行它。
+
+只要 Google Colab 可以工作，您就可以在任何环境中使用它。
 
 
 # 主要使用方法
